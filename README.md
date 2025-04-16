@@ -29,3 +29,6 @@ git clone https://github.com/longprtk/freeAI.git
 cd freeAI
 pip install -r requirements.txt
 python run.py
+## 📜 Giấy phép
+
+Dự án này được cấp phép theo **MIT License**
