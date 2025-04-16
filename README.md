@@ -48,7 +48,7 @@ Welcome to Lucky! Lucky is an AI that can learn, adapt, and evolve by copying it
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/freeAI.git
+   git clone https://github.com/longprtk/freeAI.git
    cd freeAI
    pip install -r requirements.txt
    python lucky/lucky.py
